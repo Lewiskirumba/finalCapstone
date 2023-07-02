@@ -11,13 +11,11 @@ Make sure you have Python installed on your system. You can download Python from
 
 Clone the repository to your local machine using the following command:
 
-bash
-Copy code
+code:
 git clone https://github.com/Lewiskirumba/finalCapstone.git
 Navigate to the project directory:
 
-bash
-Copy code
+code:
 cd finalCapstone
 You are now ready to use the Finance Calculator.
 
@@ -28,7 +26,7 @@ Navigate to the project directory where the finance_calculator.py file is locate
 
 Run the following command to start the application:
 
-Copy code
+code:
 python finance_calculator.py
 Follow the on-screen prompts to choose the finance calculator option (investment or bond) and provide the necessary information.
 
@@ -39,8 +37,9 @@ Here are a few examples of using the Finance Calculator:
 
 Calculating investment interest:
 
-python
-Copy code
+python environment
+
+code:
 Welcome to Westwood Financial
 
 Investment = To calculate the amount of interest you will earn on your investment
@@ -62,7 +61,7 @@ Interest = 5750.0
 Calculating bond repayments:
 
 python
-Copy code
+code:
 Welcome to Westwood Financial
 
 Investment = To calculate the amount of interest you will earn on your investment
